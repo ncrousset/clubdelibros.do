@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Requests;
+namespace ClubDeLiubros\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

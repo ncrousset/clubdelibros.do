@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace ClubDeLiubros\Events;
 
 abstract class Event
 {
